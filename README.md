@@ -6,7 +6,7 @@
 ### [📚 Некоторые из моих работ можно посмотреть тут](https://github.com/natellaful/Portfolio) 
 
 ## Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natella_bor)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natella_bor) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](natellaful@gmail.com)
 
 ## Образование
 
@@ -35,7 +35,7 @@
 - Математическая статистика и теория вероятности
 
 ## Дополнительное образование. Курсы
-### ✅ Курс "Аналитик данных". Яндекс.Практикум
+### ✅ [Курс "Аналитик данных". Яндекс.Практикум](https://github.com/natellaful/Portfolio/blob/main/Сертификат%20%22Аналитик%20данных%22%20Яндекс%20Практикум.pdf)
 ноябрь 2022 - июль 2023
 
 Некоторые из реализованных проектов:
